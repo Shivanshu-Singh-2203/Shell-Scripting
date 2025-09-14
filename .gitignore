@@ -1,0 +1,22 @@
+# Ignore compiled files or temporary outputs
+*.o
+*.out
+*.log
+*.tmp
+
+# Ignore general output directories
+output/
+logs/
+
+# Ignore editor backup files
+*~
+*.swp
+*.swo
+
+# Ignore macOS hidden files
+.DS_Store
+
+# Ignore Python cache if any scripts call Python
+__pycache__/
+*.pyc
+
