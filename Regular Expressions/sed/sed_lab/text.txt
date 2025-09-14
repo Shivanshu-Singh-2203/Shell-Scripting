@@ -1,0 +1,6 @@
+Once upon a time, in a faraway land.
+It was a sunny night and everyone was happy.
+Happily ever after.
+Name=Xfce Session
+    Leading spaces example
+Trailing spaces example

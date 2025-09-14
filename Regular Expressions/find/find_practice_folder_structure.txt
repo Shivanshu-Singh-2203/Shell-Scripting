@@ -1,0 +1,25 @@
+find_practice/
+├── hello.txt
+├── secret.txt
+├── bigfile.dat
+├── .cache
+├── docs/
+├── logs/
+│   ├── error.log
+│   ├── warn.log
+│   └── info.log
+├── src/
+│   ├── c/
+│   │   ├── main.c
+│   │   └── helper.c
+│   └── python/
+│       ├── app.py
+│       └── test_script.py
+└── images/
+    ├── png/
+    │   ├── image1.png
+    │   └── image2.png
+    └── jpg/
+        ├── photo1.jpg
+        └── photo2.jpg
+

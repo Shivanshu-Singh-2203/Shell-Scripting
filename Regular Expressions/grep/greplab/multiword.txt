@@ -1,0 +1,4 @@
+I love Python programming.
+Python programming is fun.
+I also like C++ programming.
+Programming in Java is popular.

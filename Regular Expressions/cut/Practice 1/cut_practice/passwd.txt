@@ -1,0 +1,5 @@
+root:x:0:0:/root:/bin/bash
+nobody:x:65534:65534:/nonexistent:/usr/sbin/nologin
+alice:x:1000:1000:/home/alice:/bin/bash
+bob:x:1001:1001:/home/bob:/bin/zsh
+charlie:x:1002:1002:/home/charlie:/bin/fish

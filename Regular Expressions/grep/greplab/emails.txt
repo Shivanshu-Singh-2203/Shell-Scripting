@@ -1,0 +1,5 @@
+john.doe@example.com
+alice_smith@gmail.com
+bob@example.org
+eve@company.co.in
+test.user+label@domain.com

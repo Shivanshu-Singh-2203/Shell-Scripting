@@ -1,0 +1,3 @@
+Another note for grep practice.
+Learning patterns and regex is fun.
+Use -r to search recursively.

@@ -1,0 +1,4 @@
+Line 1: This is a test line.
+Line 2: Another test line with Python.
+Line 3: Yet another line with numbers 12345.
+Line 4: Final line for testing grep commands.

@@ -1,0 +1,5 @@
+00 is not equal to 100 dollars
+Use * to match multiple characters
+? is used for optional matching
+^ is used to match start of line
+. matches any single character

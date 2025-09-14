@@ -1,0 +1,5 @@
+INFO: Program started
+ERROR: File not found
+INFO: Retrying connection
+ERROR: Permission denied
+INFO: Finished

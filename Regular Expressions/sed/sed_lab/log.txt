@@ -1,0 +1,4 @@
+[2025-09-07 09:00] user:Alice login
+[2025-09-07 09:05] user:Bob login
+[2025-09-07 09:10] user:Charlie error
+[2025-09-07 09:15] user:Alice logout

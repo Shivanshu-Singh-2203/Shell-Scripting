@@ -1,0 +1,2 @@
+Once upon a time there was a coder.
+The coder loved Linux and shell scripting.
